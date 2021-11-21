@@ -1,0 +1,54 @@
+english/web/api/dto/UserCreateDto.java
+ english.web.api.dto.UserCreateDto
+english/web/api/dto/AuthInfoDto.java
+ english.web.api.dto.AuthInfoDto
+english/web/exceptions/UserAlreadyExistsException.java
+ english.web.exceptions.UserAlreadyExistsException
+english/web/api/AppConfig.java
+ english.web.api.AppConfig
+english/web/api/SpringFoxConfig.java
+ english.web.api.SpringFoxConfig
+english/web/services/JwtService.java
+ english.web.services.JwtService
+english/web/api/dto/UserInfoDto.java
+ english.web.api.dto.UserInfoDto
+english/web/models/User.java
+ english.web.models.User
+english/web/api/dto/AuthSuccessDto.java
+ english.web.api.dto.AuthSuccessDto
+english/web/exceptions/WordNotFoundException.java
+ english.web.exceptions.WordNotFoundException
+english/web/api/dto/WordCreateUpdateDto.java
+ english.web.api.dto.WordCreateUpdateDto
+english/web/exceptions/WordIsNotOwnedByUserException.java
+ english.web.exceptions.WordIsNotOwnedByUserException
+english/web/repositories/UserRepository.java
+ english.web.repositories.UserRepository
+english/web/api/Main.java
+ english.web.api.Main
+english/web/services/UserService.java
+ english.web.services.UserService
+english/web/api/controllers/UserController.java
+ english.web.api.controllers.UserController
+english/web/exceptions/UserNotFoundException.java
+ english.web.exceptions.UserNotFoundException
+english/web/api/dto/WordInfoDto.java
+ english.web.api.dto.WordInfoDto
+english/web/api/JwtTokenFilter.java
+ english.web.api.JwtTokenFilter
+english/web/api/SecurityConfig.java
+ english.web.api.SecurityConfig
+english/web/api/CustomAuthenticationProvider.java
+ english.web.api.CustomAuthenticationProvider
+english/web/api/dto/ErrorDto.java
+ english.web.api.dto.ErrorDto
+english/web/api/DefaultAdvice.java
+ english.web.api.DefaultAdvice
+english/web/models/Word.java
+ english.web.models.Word
+english/web/api/controllers/WordController.java
+ english.web.api.controllers.WordController
+english/web/repositories/WordRepository.java
+ english.web.repositories.WordRepository
+english/web/services/WordService.java
+ english.web.services.WordService

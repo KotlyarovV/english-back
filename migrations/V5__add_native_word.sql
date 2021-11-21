@@ -1,0 +1,1 @@
+ALTER TABLE IF EXISTS word ADD COLUMN native_word varchar(150);

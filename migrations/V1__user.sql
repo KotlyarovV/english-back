@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS users (
+    login varchar(20) NOT NULL PRIMARY KEY
+)
